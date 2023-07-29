@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/thaodang4103/CLionProjects/FishTankManagement/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/FishTankManagement.dir/main.cpp.o -c /Users/thaodang4103/CLionProjects/FishTankManagement/main.cpp",
+  "file": "/Users/thaodang4103/CLionProjects/FishTankManagement/main.cpp"
+},
+{
+  "directory": "/Users/thaodang4103/CLionProjects/FishTankManagement/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/FishTankManagement.dir/AquaticAnimal.cpp.o -c /Users/thaodang4103/CLionProjects/FishTankManagement/AquaticAnimal.cpp",
+  "file": "/Users/thaodang4103/CLionProjects/FishTankManagement/AquaticAnimal.cpp"
+},
+{
+  "directory": "/Users/thaodang4103/CLionProjects/FishTankManagement/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/FishTankManagement.dir/FishTank.cpp.o -c /Users/thaodang4103/CLionProjects/FishTankManagement/FishTank.cpp",
+  "file": "/Users/thaodang4103/CLionProjects/FishTankManagement/FishTank.cpp"
+},
+{
+  "directory": "/Users/thaodang4103/CLionProjects/FishTankManagement/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/FishTankManagement.dir/Game.cpp.o -c /Users/thaodang4103/CLionProjects/FishTankManagement/Game.cpp",
+  "file": "/Users/thaodang4103/CLionProjects/FishTankManagement/Game.cpp"
+},
+{
+  "directory": "/Users/thaodang4103/CLionProjects/FishTankManagement/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/FishTankManagement.dir/ImplementAnimals.cpp.o -c /Users/thaodang4103/CLionProjects/FishTankManagement/ImplementAnimals.cpp",
+  "file": "/Users/thaodang4103/CLionProjects/FishTankManagement/ImplementAnimals.cpp"
+}
+]

@@ -1,0 +1,7 @@
+# ninja log v5
+1	192	1689706510690772878	CMakeFiles/FishTankManagement.dir/AquaticAnimal.cpp.o	976603cad8a9edf7
+2	269	1689706510767752657	CMakeFiles/FishTankManagement.dir/ImplementAnimals.cpp.o	d3ccc02951dbe776
+1	25	1689706510524630415	CMakeFiles/FishTankManagement.dir/FishTank.cpp.o	cc054d67afa60643
+1	322	1689706510820623797	CMakeFiles/FishTankManagement.dir/Game.cpp.o	570fc55254dfd918
+322	362	1689706510862251371	FishTankManagement	ad07734da0209332
+1	244	1689706510742546594	CMakeFiles/FishTankManagement.dir/main.cpp.o	6dc4df3bedb6710a

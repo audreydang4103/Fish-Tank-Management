@@ -1,0 +1,3 @@
+/Users/thaodang4103/CLionProjects/FishTankManagement/cmake-build-debug/CMakeFiles/FishTankManagement.dir
+/Users/thaodang4103/CLionProjects/FishTankManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thaodang4103/CLionProjects/FishTankManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
